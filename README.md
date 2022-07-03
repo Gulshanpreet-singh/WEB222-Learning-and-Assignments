@@ -2,6 +2,9 @@
 This repository contains all the WEB222 (Web Programming Principles) assignments that I have done as a student at Seneca College. This repo also contains all the notes and the learning material that I created/used to learn web development.
 
 ## Marks secured
+1. Assignment 1: 10/10
+2. Assignment 2: 10/10
+3. Assignment 3: Not Released
 
 ### POINTS TO NOTE
 
