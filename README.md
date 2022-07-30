@@ -4,8 +4,8 @@ This repository contains all the WEB222 (Web Programming Principles) assignments
 ## Marks secured
 1. Assignment 1: 10/10
 2. Assignment 2: 10/10
-3. Assignment 3: Not Released
-4. Assignment 4: Not Released
+3. Assignment 3: 6/6
+4. Assignment 4: 6/6
 5. Assignment 5: Not Released
 
 ### POINTS TO NOTE
