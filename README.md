@@ -6,7 +6,7 @@ This repository contains all the WEB222 (Web Programming Principles) assignments
 2. Assignment 2: 10/10
 3. Assignment 3: 6/6
 4. Assignment 4: 6/6
-5. Assignment 5: Not Released
+5. Assignment 5: 6/6
 
 ### POINTS TO NOTE
 - I have not done assignment 4 and 5 using the method that the word document specified. I have used my own methods to do the assignment.
